@@ -2,6 +2,9 @@
 
 A lightweight Windows application for managing Roblox accounts and Roblox client sessions.
 
+> [!IMPORTANT]
+> SessionX is uncompleted project. So please do not come and complaining to our team.
+
 ## Features
 
 * Account management
