@@ -1,9 +1,22 @@
+> [!IMPORTANT]
+> SessionX is uncompleted project. So please do not come and complaining to our team.
+
+<p align="center">
+    <img src="image_black" width="380">
+    <img src="image_white" width="380">
+    
+<div align="center">
+  
+  ![license](https://img.shields.io/badge/license-MIT-green?style=flat)
+  ![version](https://img.shields.io/badge/version-1.0.0-blue?style=flat)
+  
+</div>
+
+----
+
 # SessionX
 
 A lightweight Windows application for managing Roblox accounts and Roblox client sessions.
-
-> [!IMPORTANT]
-> SessionX is uncompleted project. So please do not come and complaining to our team.
 
 ## Features
 
@@ -21,12 +34,6 @@ A lightweight Windows application for managing Roblox accounts and Roblox client
 * Dark and light themes
 * Local account data
 
-## Status
-
-SessionX is currently in development.
-
-Features may change as the project develops.
-
 ## Requirements
 
 * Windows 10 or later
@@ -37,7 +44,7 @@ Features may change as the project develops.
 Clone the repository:
 
 ```bash
-git clone https://github.com/DuckyCashy/RobloxAccountManager.git
+git clone https://github.com/DuckyCashy/SessionX.git
 ```
 
 Open `SessionX.sln` in Visual Studio and build the solution.
@@ -58,6 +65,6 @@ Before submitting a pull request, make sure the project builds successfully and 
 
 ## License
 
-Roblox Account Manager is available under the MIT License.
+SessionX is available under the MIT License.
 
 See [LICENSE](LICENSE) for details.
